@@ -7,5 +7,5 @@ I am a final year Computer Science student at Gadjah Mada University (UGM) and R
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhannr&show_icons=true&count_private=true&bg_color=45,c31432,240b36&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height=180px/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhannr&layout=compact&count_private=true&bg_color=45,c31432,240b36&text_color=ffffff&title_color=ffffff&icon_color=ffffff" height=180px/>
-  <img align="center" height=180px https://github-readme-stats.vercel.app/api/wakatime?username=rayhannr />
+  <img align="center" height=180px src="https://github-readme-stats.vercel.app/api/wakatime?username=rayhannr" />
 </p>
