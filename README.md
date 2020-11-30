@@ -6,5 +6,5 @@ I am a final year Computer Science student at Gadjah Mada University (UGM) and R
 
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rayhannr&show_icons=truecount_private=true" height=180px/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhannrlayout=compact" height=180px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayhannr&layout=compact" height=180px/>
 </p>
