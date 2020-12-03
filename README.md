@@ -1,5 +1,5 @@
 ### Hi there, I'm <a href="https://rayhannr.github.io">Rayhan</a> 👋
-I am a final year Computer Science student at Gadjah Mada University (UGM) and React.js enthusiast with two years of experience in frontend development. I continuously learn new things about web development and actively build a couple of projects by myself or with other developers. Besides, I'm working as a freelance Python programmer to help non-IT students in their research on data science.
+I am a final year Computer Science student at Gadjah Mada University (UGM) and React.js enthusiast with two years of experience in frontend development. I continuously learn new things about web development and actively build a couple of projects by myself or with other developers. Besides, I'm working as a freelance Python programmer to help non-IT students in their data science research.
 
 - 🌱 I’m working as a frontend developer in a new startup in my hometown, but still open for a better opportunity to work with and learn from more professional and skillful developers.
 - 🔭 I'm currently conducting a research on NLP about author obfuscation in order to complete my coursework at Computer Science.
