@@ -1,4 +1,4 @@
-### Hi y'all, I'm <a href="https://rayhannr.github.io">Rayhan</a> 👋
+### Hi y'all, I'm <a href="https://rayhannr.vercel.app">Rayhan</a> 👋
 I am a final year Computer Science student at Gadjah Mada University (UGM) and React.js enthusiast with two years of experience in frontend development. I continuously learn new things about web development and actively build a couple of projects by myself or with other developers. I'm working as a freelance Python programmer as well to help non-IT students who conduct researches in data science but unable to code.
 
 - 🌱 I’m working as a frontend developer in a new startup in my hometown, but still open for a better opportunity to work with and learn from more professional and skillful developers.
